@@ -11,7 +11,7 @@ Create a content type for Travel Package with following fields:
 Use taxonomy for Categories and not simple text input
 
 ## Task
-Create a rest api with Drupal 8:
+Create a rest api with Drupal 8 using Rest API or JSON API module:
 1. GET API to get list of Travel Package
 2. POST API to create new Travel package
 3. DELETE API to delete a particular Travel package
