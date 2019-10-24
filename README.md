@@ -16,3 +16,5 @@ Create a rest api with Drupal 8:
 2. POST API to create new Travel package
 3. DELETE API to delete a particular Travel package
 
+
+Submit the code in this repository and also add a video of output.
